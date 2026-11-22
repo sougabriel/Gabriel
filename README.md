@@ -96,4 +96,4 @@ object Premiiado {
 ## 📫 Contato
 
 [![YouTube](https://img.shields.io/badge/YouTube-premiiado-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/premiiado/)
-[![Instagram](https://img.shields.io/badge/Instagram-@gabdaleste-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apenas.ogabriel/)
+[![Instagram](https://img.shields.io/badge/Instagram-@apenas.ogabriel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apenas.ogabriel/)
